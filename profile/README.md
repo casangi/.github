@@ -4,7 +4,7 @@ The CASA organization on GitHub contains prototype packages that the CASA team i
 
 # Useful links:
 - [Download CASA](https://casa.nrao.edu/casa_obtaining.shtml)
-- [CASA docuemntation](https://casadocs.readthedocs.io/en/stable/)
+- [CASA documentation](https://casadocs.readthedocs.io/en/stable/)
 - [CASA Repository](https://open-bitbucket.nrao.edu/projects/CASA/repos/casa6/browse)
 
 # Protype Packages Packages Being Developed:
