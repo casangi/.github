@@ -7,7 +7,7 @@ The CASA organization on GitHub contains prototype packages that the CASA team i
 - [CASA documentation](https://casadocs.readthedocs.io/en/stable/)
 - [CASA Repository](https://open-bitbucket.nrao.edu/projects/CASA/repos/casa6/browse)
 
-# Protype Packages Being Developed:
+# Prototype Packages Being Developed:
 These prototype packages are still under development and will be rapidly changing, however, some have progressed to the stage where tutorials are available.
 
 | Package                                                                                      | Description                                     | Tutorial Available |
