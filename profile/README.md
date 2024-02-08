@@ -19,6 +19,12 @@ These prototype packages are still under development and will be rapidly changin
 | [](https://github.com/casangi/xradio)[xradio](https://github.com/casangi/xradio)             | Xarray radio astronomy data IO.                 | No                 |
 
 # Production CASA Packages:
-  
+
+| Package                                                                                      | Description                                          |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [](https://github.com/casangi/casadocs)[casadocs](https://github.com/casangi/casadocs)       | CASA documentation. |
+| [](https://github.com/casangi/examples)[examples](https://github.com/casangi/examples)       | Examples of how to use CASA.                          |
+| [](https://github.com/casangi/casabench)[casabench](https://github.com/casangi/casabench)    | Tracking performance metrics of CASA.                 |
+| [](https://github.com/casangi/casaconfig)[casaconfig](https://github.com/casangi/casaconfig) | Reference data and converters for CASA operation.     |
 
 We welcome feedback at [casa-feedback@nrao.edu](casa-feedback@nrao.edu).
