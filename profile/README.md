@@ -13,10 +13,10 @@ These prototype packages are still under development and will be rapidly changin
 | Package                                                                                      | Description                                     | Tutorial Available |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------ |
 | [](https://github.com/casangi/astrohack)[astrohack](https://github.com/casangi/astrohack)    | Antenna panel and position corrections.         | [Yes](https://astrohack.readthedocs.io/en/stable/tutorial_vla.html)                |
-| [](https://github.com/casangi/casagui)[casagui](https://github.com/casangi/casagui)          | CASA GUI Desktop.                               | [Yes](https://github.com/casangi/casagui)                |
-| [](https://github.com/casangi/graphviper)[graphviper](https://github.com/casangi/graphviper) | Dask based MapReduce for Multi Xarray Datasets. | [Yes](https://graphviper.readthedocs.io/en/latest/graph_building_tutorial.html)                |
-| [](https://github.com/casangi/astroviper)[astroviper](https://github.com/casangi/astroviper) | Radio Interferometry Data Processing.           | No                 |
-| [](https://github.com/casangi/xradio)[xradio](https://github.com/casangi/xradio)             | Xarray Radio Astronomy Data IO.                 | No                 |
+| [](https://github.com/casangi/casagui)[casagui](https://github.com/casangi/casagui)          | CASA GUI desktop.                               | [Yes](https://github.com/casangi/casagui)                |
+| [](https://github.com/casangi/graphviper)[graphviper](https://github.com/casangi/graphviper) | Dask based MapReduce for Multi-Xarray datasets. | [Yes](https://graphviper.readthedocs.io/en/latest/graph_building_tutorial.html)                |
+| [](https://github.com/casangi/astroviper)[astroviper](https://github.com/casangi/astroviper) | Radio interferometry data processing.           | No                 |
+| [](https://github.com/casangi/xradio)[xradio](https://github.com/casangi/xradio)             | Xarray radio astronomy data IO.                 | No                 |
 
 # Production CASA Packages:
   
