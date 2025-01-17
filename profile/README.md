@@ -18,7 +18,7 @@ These prototype packages are still under development and will be rapidly changin
 | [astroviper](https://github.com/casangi/astroviper)| Radio interferometry data processing.                     | No |
 | [xradio](https://github.com/casangi/xradio)        | Xarray radio astronomy data IO.                           | No |
 | [cloudviper](https://github.com/casangi/cloudviper)| Cloud-native container orchestration system configurations| No |
-| [toolviper](https://github.com/casangi/graphviper) | Radio astronomy processing tools using the VIPER framework| [Yes](https://github.com/casangi/toolviper)
+| [toolviper](https://github.com/casangi/toolviper) | Radio astronomy processing tools using the VIPER framework| [Yes](https://github.com/casangi/toolviper)
 
 # Production CASA Packages:
 
